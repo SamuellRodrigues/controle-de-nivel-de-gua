@@ -20,13 +20,10 @@ Este projeto é uma simulação de um sistema hidráulico automatizado que utili
 3. **Exibição de mensagens ao usuário**: Exibição de mensagens de estado do sistema e instruções de ações com base nas leituras dos sensores.
 4. **Repetição da simulação**: O loop permite que o usuário simule o sistema várias vezes até decidir parar.
 ## Execução do projeto
-<img src=Projeto.png" alt="Print execção">
+<img src="Projeto.png" alt="Print execção">
 
 ## Backlog
 
-- **Interface Gráfica**: Substituir a interface de console por uma interface gráfica mais amigável ao usuário.
-- **Simulação Visual**: Adicionar elementos gráficos para mostrar o nível de água nos tanques e o funcionamento da bomba e do registro.
-- **Integração com Sensores Reais**: Integrar a simulação a sensores físicos para monitorar o nível de água em um sistema real.
 - **Relatório de Manutenção**: Criar uma função que gera automaticamente um relatório de manutenção quando há detecção de erro nos sensores.
 - **Logs de Sistema**: Adicionar a funcionalidade de gerar logs automáticos de cada simulação, incluindo o estado das boias e as ações tomadas.
 
