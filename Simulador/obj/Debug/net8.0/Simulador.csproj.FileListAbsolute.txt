@@ -1,0 +1,15 @@
+C:\Users\Alunos\Desktop\controle-de-nivel-de-gua\Simulador\bin\Debug\net8.0\Simulador.exe
+C:\Users\Alunos\Desktop\controle-de-nivel-de-gua\Simulador\bin\Debug\net8.0\Simulador.deps.json
+C:\Users\Alunos\Desktop\controle-de-nivel-de-gua\Simulador\bin\Debug\net8.0\Simulador.runtimeconfig.json
+C:\Users\Alunos\Desktop\controle-de-nivel-de-gua\Simulador\bin\Debug\net8.0\Simulador.dll
+C:\Users\Alunos\Desktop\controle-de-nivel-de-gua\Simulador\bin\Debug\net8.0\Simulador.pdb
+C:\Users\Alunos\Desktop\controle-de-nivel-de-gua\Simulador\obj\Debug\net8.0\Simulador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alunos\Desktop\controle-de-nivel-de-gua\Simulador\obj\Debug\net8.0\Simulador.AssemblyInfoInputs.cache
+C:\Users\Alunos\Desktop\controle-de-nivel-de-gua\Simulador\obj\Debug\net8.0\Simulador.AssemblyInfo.cs
+C:\Users\Alunos\Desktop\controle-de-nivel-de-gua\Simulador\obj\Debug\net8.0\Simulador.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Desktop\controle-de-nivel-de-gua\Simulador\obj\Debug\net8.0\Simulador.sourcelink.json
+C:\Users\Alunos\Desktop\controle-de-nivel-de-gua\Simulador\obj\Debug\net8.0\Simulador.dll
+C:\Users\Alunos\Desktop\controle-de-nivel-de-gua\Simulador\obj\Debug\net8.0\refint\Simulador.dll
+C:\Users\Alunos\Desktop\controle-de-nivel-de-gua\Simulador\obj\Debug\net8.0\Simulador.pdb
+C:\Users\Alunos\Desktop\controle-de-nivel-de-gua\Simulador\obj\Debug\net8.0\Simulador.genruntimeconfig.cache
+C:\Users\Alunos\Desktop\controle-de-nivel-de-gua\Simulador\obj\Debug\net8.0\ref\Simulador.dll
